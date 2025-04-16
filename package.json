@@ -1,12 +1,12 @@
 {
-  "name": "LAKA-MD",
+  "name": "rocky-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "lakaofc.js",
   "scripts": {
     "start": "pm2 start lakaofc.js --deep-monitoring --attach --name LAKA-MD",
-    "stop": "pm2 stop LAKA-MD",
-    "restart": "pm2 restart LAKA-MD"
+    "stop": "pm2 stop rocky-MD",
+    "restart": "pm2 restart rocky-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:lakaofc-baliyes",
