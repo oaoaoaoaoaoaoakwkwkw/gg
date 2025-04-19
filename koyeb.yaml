@@ -1,4 +1,4 @@
-name: laka-ofc
+name: rokcy -ofc
 services:
   - name: laka-ofc-service
     type: web
