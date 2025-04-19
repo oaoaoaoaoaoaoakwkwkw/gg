@@ -153,7 +153,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)]([https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y](https://whatsapp.com/channel/0029Vb6FEaJ5kg79LXF2gG3Z))
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5v2ug8fewiQc7kOa1c/109))
 
 ---
 
