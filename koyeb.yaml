@@ -1,6 +1,6 @@
 name: rokcy -ofc
 services:
-  - name: laka-ofc-service
+  - name: rocky-ofc-service
     type: web
     ports:
       - 5000
